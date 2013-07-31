@@ -1,0 +1,5 @@
+Testsuite: gradebook.model.GradebookCategoryTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.118 sec
+
+Testcase: testGradebookCategoryName took 0.006 sec
+Testcase: testGradebookCategoryWeight took 0 sec

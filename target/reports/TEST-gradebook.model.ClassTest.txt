@@ -1,0 +1,10 @@
+Testsuite: gradebook.model.ClassTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.366 sec
+
+Testcase: getCourseOfClasstest took 0.133 sec
+Testcase: averageScoreClassTest took 0.08 sec
+Testcase: letterGradeFClassTest took 0.022 sec
+Testcase: getSectionsOfClasstest took 0 sec
+Testcase: letterGradeDClassTest took 0.001 sec
+Testcase: letterGradeCClassTest took 0 sec
+Testcase: letterGradeAClassTest took 0 sec
